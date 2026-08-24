@@ -15,7 +15,7 @@ body{
     width: 320px;
     background-color: #ffffff;
     border-radius: 12px;
-    box-shadow: 0 10 20px rgba(0,0,0,0.1);
+    box-shadow: 0 10px21 20px rgba(0,0,0,0.1);
     padding: 20px;
 }
 .calculator-screen{
